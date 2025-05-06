@@ -19,7 +19,7 @@ Word → PDF	docx2pdf, comtypes, pywin32	⚠️ Windows Only (MS Word Required)
 
 🚀 Getting Started
 1. Clone the Repository
-git clone https://github.com/yourusername/docxpress.git
+git clone https://github.com/Vyash2002/DocXpress.git
 cd docxpress
 2. Install Dependencies
 pip install -r requirements.txt
@@ -33,6 +33,7 @@ docxpress/
 ├── pdf_word_converter.py   # Main Streamlit app
 ├── requirements.txt        # Dependencies
 └── README.md               # Project documentation
+
 ⚠️ Notes
 Word to PDF conversion only works on Windows, and requires Microsoft Word installed.
 
